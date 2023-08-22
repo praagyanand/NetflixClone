@@ -1,2 +1,2 @@
-# NetflixClone
+# Netflix
 web development
